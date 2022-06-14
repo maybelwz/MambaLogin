@@ -2,7 +2,7 @@ file-version: 1
 
 # Se você estiver usando algum Plugin que envia um title quando 
 # o player loga no servidor você deve desativar o title ou remove-lo!
-TitleRegistrar: "&a&lRede Mamba"
+TitleRegistrar: "&c&lRede Nuke"
 SubtitleRegistrar: "&fDigite /register <senha>"
 ExcedeuLimiteRegistrar: "&cVocê excedeu o tempo limite para efetuar seu registro."
 
@@ -13,7 +13,7 @@ MensagemRegistrado: |
 
 # Se você estiver usando algum Plugin que envia um title quando 
 # o player loga no servidor você deve desativar o title ou remove-lo!
-TitleLogar: "&a&lRede Mamba"
+TitleLogar: "&c&lRede Nuke"
 SubtitleLogar: "&fDigite /login <senha>"
 ExcedeuLimiteLogar: "&cVocê excedeu o tempo limite para efetuar seu login."
 
